@@ -1,0 +1,6 @@
+{
+  "name": "Sally's Legal Apparel",
+  "description": "Premium legal apparel and accessories for advocates and legal professionals. Discover court robes, shirts, formalwear and professional accessories from Sally's Legal Apparel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
