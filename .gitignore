@@ -1,8 +1,3 @@
-node_modules/
-build/
-dist/
-coverage/
+# Static site — no build output to ignore
 .DS_Store
 *.log
-.env*
-!.env.example
